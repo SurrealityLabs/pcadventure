@@ -20,3 +20,4 @@ Other useful pages on the web:
 - https://alexandrugroza.ro/microelectronics/system-design/isa-io-interface/index.html - schematic for a multi-I/O card. Can be broken down into floppy controller, serial card, parallel card, and IDE card.
 - https://github.com/hkzlab/ISA_DualUARTParport - Schematic for UART + Parallel card
 - https://www.vogons.org/viewtopic.php?t=36122&start=20 - discussion of getting a PS/2 compatible 8242 keyboard controller working on older motherboards
+- https://github.com/urjaman/ps2-to-rs232/ - firmware to convert PS2 to Serial mouse on an ATTiny85
