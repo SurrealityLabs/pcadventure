@@ -21,3 +21,13 @@ Other useful pages on the web:
 - https://github.com/hkzlab/ISA_DualUARTParport - Schematic for UART + Parallel card
 - https://www.vogons.org/viewtopic.php?t=36122&start=20 - discussion of getting a PS/2 compatible 8242 keyboard controller working on older motherboards
 - https://github.com/urjaman/ps2-to-rs232/ - firmware to convert PS2 to Serial mouse on an ATTiny85
+
+For the 386:
+- Schematic of a basic design with the M6117C is available in https://pestingers.net/pdfs/other-computers/circuit-cellar/1998/circuit-cellar-095.pdf
+- Schematic of a full design with the M6117D is available in https://github.com/UzixLS/pc-kharon-386
+- Old product page for the M6117C is at https://web.archive.org/web/19980504195541fw_/http://www.ali.com.tw/product/m6117c.htM
+- Datasheet for M6117D is at http://www.dmp.com.tw/app/webcamera/pdf/m6117d.pdf
+
+For the 486:
+- Schematic of a board with the 85C471/85C407 is available at https://hackaday.io/project/183453-stebus-486dx-pc-at-compatible-board (along with the BIOS)
+- PCB of the Trio64V+ VLB video card is available at https://github.com/matt1187/765VL, and the design is discussed at https://www.vogons.org/viewtopic.php?f=63&t=76647
