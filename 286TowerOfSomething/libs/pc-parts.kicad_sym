@@ -2000,7 +2000,7 @@
 		)
 		(symbol "CS4237B_0_0"
 			(pin bidirectional line
-				(at 0 0 0)
+				(at 25.4 38.1 180)
 				(length 5.08)
 				(name "XD7/SDATA"
 					(effects
@@ -2018,7 +2018,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -22.86 0)
+				(at 25.4 20.32 180)
 				(length 5.08)
 				(name "~{XIOR}"
 					(effects
@@ -2036,7 +2036,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -251.46 0)
+				(at -25.4 58.42 0)
 				(length 5.08)
 				(name "XTALI"
 					(effects
@@ -2054,7 +2054,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -25.4 0)
+				(at 25.4 22.86 180)
 				(length 5.08)
 				(name "~{XIOW}"
 					(effects
@@ -2072,7 +2072,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -27.94 0)
+				(at 25.4 27.94 180)
 				(length 5.08)
 				(name "XCTL0/XA2"
 					(effects
@@ -2090,7 +2090,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -30.48 0)
+				(at 25.4 30.48 180)
 				(length 5.08)
 				(name "XA1"
 					(effects
@@ -2108,7 +2108,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -33.02 0)
+				(at 25.4 33.02 180)
 				(length 5.08)
 				(name "SCL/XA0"
 					(effects
@@ -2126,7 +2126,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -35.56 0)
+				(at 25.4 60.96 180)
 				(length 5.08)
 				(name "~{BRESET}"
 					(effects
@@ -2144,7 +2144,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -38.1 0)
+				(at 25.4 15.24 180)
 				(length 5.08)
 				(name "XCTL1/~{SINT}/~{ACDCS}/~{DOWN}"
 					(effects
@@ -2162,7 +2162,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -40.64 0)
+				(at -5.08 76.2 270)
 				(length 5.08)
 				(name "VDF1"
 					(effects
@@ -2180,7 +2180,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -43.18 0)
+				(at -5.08 -76.2 90)
 				(length 5.08)
 				(name "SGND"
 					(effects
@@ -2198,7 +2198,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -45.72 0)
+				(at -25.4 -58.42 0)
 				(length 5.08)
 				(name "IRQF"
 					(effects
@@ -2216,7 +2216,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -2.54 0)
+				(at 25.4 40.64 180)
 				(length 5.08)
 				(name "XD6/LRCLK"
 					(effects
@@ -2234,7 +2234,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -48.26 0)
+				(at -25.4 -55.88 0)
 				(length 5.08)
 				(name "IRQE"
 					(effects
@@ -2252,7 +2252,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -50.8 0)
+				(at -25.4 -53.34 0)
 				(length 5.08)
 				(name "IRQD"
 					(effects
@@ -2270,7 +2270,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -53.34 0)
+				(at -25.4 -50.8 0)
 				(length 5.08)
 				(name "IRQC"
 					(effects
@@ -2288,7 +2288,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -55.88 0)
+				(at -25.4 -48.26 0)
 				(length 5.08)
 				(name "IRQB"
 					(effects
@@ -2306,7 +2306,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -58.42 0)
+				(at -25.4 -45.72 0)
 				(length 5.08)
 				(name "IRQA"
 					(effects
@@ -2324,7 +2324,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -60.96 0)
+				(at -25.4 27.94 0)
 				(length 5.08)
 				(name "SA0"
 					(effects
@@ -2342,7 +2342,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -63.5 0)
+				(at -25.4 25.4 0)
 				(length 5.08)
 				(name "SA1"
 					(effects
@@ -2360,7 +2360,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -66.04 0)
+				(at -25.4 22.86 0)
 				(length 5.08)
 				(name "SA2"
 					(effects
@@ -2378,7 +2378,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -68.58 0)
+				(at -25.4 20.32 0)
 				(length 5.08)
 				(name "SA3"
 					(effects
@@ -2396,7 +2396,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -71.12 0)
+				(at -25.4 17.78 0)
 				(length 5.08)
 				(name "SA4"
 					(effects
@@ -2414,7 +2414,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -5.08 0)
+				(at 25.4 43.18 180)
 				(length 5.08)
 				(name "XD5/MCLK"
 					(effects
@@ -2432,7 +2432,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -73.66 0)
+				(at -25.4 15.24 0)
 				(length 5.08)
 				(name "SA5"
 					(effects
@@ -2450,7 +2450,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -76.2 0)
+				(at -25.4 12.7 0)
 				(length 5.08)
 				(name "SA6"
 					(effects
@@ -2468,7 +2468,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -78.74 0)
+				(at -25.4 10.16 0)
 				(length 5.08)
 				(name "SA7"
 					(effects
@@ -2486,7 +2486,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -81.28 0)
+				(at -25.4 7.62 0)
 				(length 5.08)
 				(name "SA8"
 					(effects
@@ -2504,7 +2504,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -83.82 0)
+				(at -25.4 5.08 0)
 				(length 5.08)
 				(name "SA9"
 					(effects
@@ -2522,7 +2522,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -86.36 0)
+				(at -25.4 2.54 0)
 				(length 5.08)
 				(name "SA10"
 					(effects
@@ -2540,7 +2540,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -88.9 0)
+				(at -25.4 0 0)
 				(length 5.08)
 				(name "SA11"
 					(effects
@@ -2558,7 +2558,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -91.44 0)
+				(at -25.4 -17.78 0)
 				(length 5.08)
 				(name "~{IOR}"
 					(effects
@@ -2576,7 +2576,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -93.98 0)
+				(at -25.4 -20.32 0)
 				(length 5.08)
 				(name "~{IOW}"
 					(effects
@@ -2594,7 +2594,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -96.52 0)
+				(at -25.4 -12.7 0)
 				(length 5.08)
 				(name "AEN"
 					(effects
@@ -2612,7 +2612,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -7.62 0)
+				(at 25.4 45.72 180)
 				(length 5.08)
 				(name "XD4/FSYNC"
 					(effects
@@ -2630,7 +2630,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -99.06 0)
+				(at -25.4 -22.86 0)
 				(length 5.08)
 				(name "IOCHRDY"
 					(effects
@@ -2648,7 +2648,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -101.6 0)
+				(at -25.4 50.8 0)
 				(length 5.08)
 				(name "SD0"
 					(effects
@@ -2666,7 +2666,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -104.14 0)
+				(at -25.4 48.26 0)
 				(length 5.08)
 				(name "SD1"
 					(effects
@@ -2684,7 +2684,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -106.68 0)
+				(at -25.4 45.72 0)
 				(length 5.08)
 				(name "SD2"
 					(effects
@@ -2702,7 +2702,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -109.22 0)
+				(at -25.4 43.18 0)
 				(length 5.08)
 				(name "SD3"
 					(effects
@@ -2720,7 +2720,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -111.76 0)
+				(at -7.62 76.2 270)
 				(length 5.08)
 				(name "VD1"
 					(effects
@@ -2738,7 +2738,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -114.3 0)
+				(at -7.62 -76.2 90)
 				(length 5.08)
 				(name "DGND"
 					(effects
@@ -2756,7 +2756,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -116.84 0)
+				(at -25.4 40.64 0)
 				(length 5.08)
 				(name "SD4"
 					(effects
@@ -2774,7 +2774,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -119.38 0)
+				(at -25.4 38.1 0)
 				(length 5.08)
 				(name "SD5"
 					(effects
@@ -2792,7 +2792,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -121.92 0)
+				(at -25.4 35.56 0)
 				(length 5.08)
 				(name "SD6"
 					(effects
@@ -2810,7 +2810,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -10.16 0)
+				(at 25.4 48.26 180)
 				(length 5.08)
 				(name "XD3/SDOUT"
 					(effects
@@ -2828,7 +2828,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -124.46 0)
+				(at -25.4 33.02 0)
 				(length 5.08)
 				(name "SD7"
 					(effects
@@ -2846,7 +2846,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -127 0)
+				(at -25.4 -35.56 0)
 				(length 5.08)
 				(name "DRQB"
 					(effects
@@ -2864,7 +2864,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -129.54 0)
+				(at -25.4 -40.64 0)
 				(length 5.08)
 				(name "DRQC"
 					(effects
@@ -2882,7 +2882,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -132.08 0)
+				(at -2.54 -76.2 90)
 				(length 5.08)
 				(name "SGND"
 					(effects
@@ -2900,7 +2900,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -134.62 0)
+				(at 2.54 76.2 270)
 				(length 5.08)
 				(name "VDF4"
 					(effects
@@ -2918,7 +2918,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -137.16 0)
+				(at -25.4 -30.48 0)
 				(length 5.08)
 				(name "DRQA"
 					(effects
@@ -2936,7 +2936,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -139.7 0)
+				(at -25.4 -33.02 0)
 				(length 5.08)
 				(name "~{DACKB}"
 					(effects
@@ -2954,7 +2954,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -142.24 0)
+				(at -25.4 -38.1 0)
 				(length 5.08)
 				(name "~{DACKC}"
 					(effects
@@ -2972,7 +2972,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -144.78 0)
+				(at -25.4 -27.94 0)
 				(length 5.08)
 				(name "~{DACKA}"
 					(effects
@@ -2990,7 +2990,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -147.32 0)
+				(at 25.4 7.62 180)
 				(length 5.08)
 				(name "MIDIN"
 					(effects
@@ -3008,7 +3008,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -12.7 0)
+				(at 25.4 50.8 180)
 				(length 5.08)
 				(name "XD2/SDIN"
 					(effects
@@ -3026,7 +3026,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -149.86 0)
+				(at 25.4 5.08 180)
 				(length 5.08)
 				(name "MIDOUT"
 					(effects
@@ -3044,7 +3044,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -152.4 0)
+				(at 25.4 2.54 180)
 				(length 5.08)
 				(name "JAB2"
 					(effects
@@ -3062,7 +3062,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -154.94 0)
+				(at 25.4 0 180)
 				(length 5.08)
 				(name "JBB2/SCLK"
 					(effects
@@ -3080,7 +3080,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -157.48 0)
+				(at 25.4 -2.54 180)
 				(length 5.08)
 				(name "JACY"
 					(effects
@@ -3098,7 +3098,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -160.02 0)
+				(at 25.4 -5.08 180)
 				(length 5.08)
 				(name "JBCY/SDIN"
 					(effects
@@ -3116,7 +3116,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -162.56 0)
+				(at -2.54 76.2 270)
 				(length 5.08)
 				(name "VDF2"
 					(effects
@@ -3134,7 +3134,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -165.1 0)
+				(at 0 -76.2 90)
 				(length 5.08)
 				(name "SGND"
 					(effects
@@ -3152,7 +3152,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -167.64 0)
+				(at 25.4 -7.62 180)
 				(length 5.08)
 				(name "JBCX/SDOUT"
 					(effects
@@ -3170,7 +3170,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -170.18 0)
+				(at 25.4 -10.16 180)
 				(length 5.08)
 				(name "JACX"
 					(effects
@@ -3188,7 +3188,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -172.72 0)
+				(at 25.4 -12.7 180)
 				(length 5.08)
 				(name "JBB1/FSYNC"
 					(effects
@@ -3206,7 +3206,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -15.24 0)
+				(at 25.4 53.34 180)
 				(length 5.08)
 				(name "XD1/SCLK"
 					(effects
@@ -3224,7 +3224,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -175.26 0)
+				(at 25.4 -15.24 180)
 				(length 5.08)
 				(name "JAB1"
 					(effects
@@ -3242,7 +3242,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -177.8 0)
+				(at -25.4 -63.5 0)
 				(length 5.08)
 				(name "TEST"
 					(effects
@@ -3260,7 +3260,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -180.34 0)
+				(at 25.4 -20.32 180)
 				(length 5.08)
 				(name "ROUT"
 					(effects
@@ -3278,7 +3278,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -182.88 0)
+				(at 25.4 -22.86 180)
 				(length 5.08)
 				(name "LOUT"
 					(effects
@@ -3296,7 +3296,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -185.42 0)
+				(at 25.4 -25.4 180)
 				(length 5.08)
 				(name "RAUX1"
 					(effects
@@ -3314,7 +3314,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -187.96 0)
+				(at 25.4 -27.94 180)
 				(length 5.08)
 				(name "LAUX1"
 					(effects
@@ -3332,7 +3332,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -190.5 0)
+				(at 25.4 -30.48 180)
 				(length 5.08)
 				(name "RFILT"
 					(effects
@@ -3350,7 +3350,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -193.04 0)
+				(at 25.4 -33.02 180)
 				(length 5.08)
 				(name "LFILT"
 					(effects
@@ -3368,7 +3368,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -195.58 0)
+				(at 25.4 -35.56 180)
 				(length 5.08)
 				(name "VREF"
 					(effects
@@ -3386,7 +3386,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -198.12 0)
+				(at 25.4 -38.1 180)
 				(length 5.08)
 				(name "REFFLT"
 					(effects
@@ -3404,7 +3404,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -17.78 0)
+				(at 25.4 55.88 180)
 				(length 5.08)
 				(name "XD0/SDA"
 					(effects
@@ -3422,7 +3422,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -200.66 0)
+				(at 7.62 -76.2 90)
 				(length 5.08)
 				(name "AGND"
 					(effects
@@ -3440,7 +3440,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -203.2 0)
+				(at 7.62 76.2 270)
 				(length 5.08)
 				(name "VA"
 					(effects
@@ -3458,7 +3458,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -205.74 0)
+				(at 25.4 -40.64 180)
 				(length 5.08)
 				(name "RMIC"
 					(effects
@@ -3476,7 +3476,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -208.28 0)
+				(at 25.4 -43.18 180)
 				(length 5.08)
 				(name "LMIC"
 					(effects
@@ -3494,7 +3494,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -210.82 0)
+				(at 25.4 -45.72 180)
 				(length 5.08)
 				(name "RAUX2"
 					(effects
@@ -3512,7 +3512,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -213.36 0)
+				(at 25.4 -48.26 180)
 				(length 5.08)
 				(name "LAUX2"
 					(effects
@@ -3530,7 +3530,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -215.9 0)
+				(at 25.4 -50.8 180)
 				(length 5.08)
 				(name "RLINE"
 					(effects
@@ -3548,7 +3548,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -218.44 0)
+				(at 25.4 -53.34 180)
 				(length 5.08)
 				(name "LLINE"
 					(effects
@@ -3566,7 +3566,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -220.98 0)
+				(at 25.4 -55.88 180)
 				(length 5.08)
 				(name "MIN"
 					(effects
@@ -3584,7 +3584,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -223.52 0)
+				(at 25.4 -58.42 180)
 				(length 5.08)
 				(name "MOUT"
 					(effects
@@ -3602,7 +3602,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -20.32 0)
+				(at 25.4 17.78 180)
 				(length 5.08)
 				(name "~{SCS}/~{UP}"
 					(effects
@@ -3620,7 +3620,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -226.06 0)
+				(at -25.4 63.5 0)
 				(length 5.08)
 				(name "RESDRV"
 					(effects
@@ -3638,7 +3638,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -228.6 0)
+				(at -25.4 -10.16 0)
 				(length 5.08)
 				(name "SA15/CDRQ/~{MNT}"
 					(effects
@@ -3656,7 +3656,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -231.14 0)
+				(at -25.4 -7.62 0)
 				(length 5.08)
 				(name "SA14/CDINT"
 					(effects
@@ -3674,7 +3674,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -233.68 0)
+				(at -25.4 -5.08 0)
 				(length 5.08)
 				(name "SA13/~{CDACK}/~{MCS}"
 					(effects
@@ -3692,7 +3692,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -236.22 0)
+				(at -25.4 -2.54 0)
 				(length 5.08)
 				(name "SA12/~{CDCS}"
 					(effects
@@ -3710,7 +3710,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -238.76 0)
+				(at 25.4 12.7 180)
 				(length 5.08)
 				(name "~{MUTE}"
 					(effects
@@ -3728,7 +3728,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -241.3 0)
+				(at 25.4 -60.96 180)
 				(length 5.08)
 				(name "CMAUX2"
 					(effects
@@ -3746,7 +3746,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -243.84 0)
+				(at 2.54 -76.2 90)
 				(length 5.08)
 				(name "SGND"
 					(effects
@@ -3764,7 +3764,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -246.38 0)
+				(at 0 76.2 270)
 				(length 5.08)
 				(name "VDF3"
 					(effects
@@ -3782,7 +3782,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -248.92 0)
+				(at -25.4 55.88 0)
 				(length 5.08)
 				(name "XTALO"
 					(effects
@@ -3797,6 +3797,19 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "CS4237B_1_1"
+			(rectangle
+				(start -20.32 71.12)
+				(end 20.32 -71.12)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
 				)
 			)
 		)
