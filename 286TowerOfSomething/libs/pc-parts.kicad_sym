@@ -1229,7 +1229,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -24.13 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1238,7 +1238,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -24.13 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1248,7 +1248,7 @@
 		)
 		(symbol "80C287_0_0"
 			(pin power_in line
-				(at 0 -73.66 0)
+				(at -5.08 -36.83 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1266,7 +1266,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -78.74 0)
+				(at 0 -36.83 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1284,7 +1284,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -45.72 0)
+				(at -24.13 -15.24 0)
 				(length 5.08)
 				(name "D11"
 					(effects
@@ -1302,7 +1302,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -43.18 0)
+				(at -24.13 -12.7 0)
 				(length 5.08)
 				(name "D10"
 					(effects
@@ -1320,7 +1320,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -88.9 0)
+				(at 2.54 36.83 270)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -1338,7 +1338,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -40.64 0)
+				(at -24.13 -10.16 0)
 				(length 5.08)
 				(name "D9"
 					(effects
@@ -1356,7 +1356,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -38.1 0)
+				(at -24.13 -7.62 0)
 				(length 5.08)
 				(name "D8"
 					(effects
@@ -1374,7 +1374,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -35.56 0)
+				(at -24.13 -5.08 0)
 				(length 5.08)
 				(name "D7"
 					(effects
@@ -1392,7 +1392,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -33.02 0)
+				(at -24.13 -2.54 0)
 				(length 5.08)
 				(name "D6"
 					(effects
@@ -1410,7 +1410,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -30.48 0)
+				(at -24.13 0 0)
 				(length 5.08)
 				(name "D5"
 					(effects
@@ -1428,7 +1428,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -27.94 0)
+				(at -24.13 2.54 0)
 				(length 5.08)
 				(name "D4"
 					(effects
@@ -1446,7 +1446,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -25.4 0)
+				(at -24.13 5.08 0)
 				(length 5.08)
 				(name "D3"
 					(effects
@@ -1464,7 +1464,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -22.86 0)
+				(at -24.13 7.62 0)
 				(length 5.08)
 				(name "D2"
 					(effects
@@ -1482,7 +1482,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -20.32 0)
+				(at -24.13 10.16 0)
 				(length 5.08)
 				(name "D1"
 					(effects
@@ -1500,7 +1500,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -17.78 0)
+				(at -24.13 12.7 0)
 				(length 5.08)
 				(name "D0"
 					(effects
@@ -1518,7 +1518,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -7.62 0)
+				(at 24.13 7.62 180)
 				(length 5.08)
 				(name "PEREQ"
 					(effects
@@ -1536,7 +1536,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -12.7 0)
+				(at 24.13 0 180)
 				(length 5.08)
 				(name "~{BUSY}"
 					(effects
@@ -1554,7 +1554,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -15.24 0)
+				(at 24.13 -2.54 180)
 				(length 5.08)
 				(name "~{ERROR}"
 					(effects
@@ -1572,7 +1572,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -58.42 0)
+				(at 24.13 15.24 180)
 				(length 5.08)
 				(name "~{NPRD}"
 					(effects
@@ -1590,7 +1590,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -60.96 0)
+				(at 24.13 12.7 180)
 				(length 5.08)
 				(name "~{NPWR}"
 					(effects
@@ -1608,7 +1608,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -68.58 0)
+				(at 24.13 -15.24 180)
 				(length 5.08)
 				(name "CMD0"
 					(effects
@@ -1626,7 +1626,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -86.36 0)
+				(at 5.08 36.83 270)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -1644,7 +1644,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -81.28 0)
+				(at 2.54 -36.83 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1662,7 +1662,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -71.12 0)
+				(at 24.13 -17.78 180)
 				(length 5.08)
 				(name "CMD1"
 					(effects
@@ -1680,7 +1680,7 @@
 				)
 			)
 			(pin input line
-				(at 0 0 0)
+				(at -24.13 20.32 0)
 				(length 5.08)
 				(name "CLK"
 					(effects
@@ -1698,7 +1698,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -66.04 0)
+				(at 24.13 -10.16 180)
 				(length 5.08)
 				(name "NPS2"
 					(effects
@@ -1716,7 +1716,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -63.5 0)
+				(at 24.13 -7.62 180)
 				(length 5.08)
 				(name "~{NPS1}"
 					(effects
@@ -1734,7 +1734,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -5.08 0)
+				(at -24.13 25.4 0)
 				(length 5.08)
 				(name "RESET"
 					(effects
@@ -1752,7 +1752,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -10.16 0)
+				(at 24.13 5.08 180)
 				(length 5.08)
 				(name "~{PEACK}"
 					(effects
@@ -1770,7 +1770,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -91.44 0)
+				(at 0 36.83 270)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -1788,7 +1788,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -83.82 0)
+				(at 5.08 -36.83 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1806,7 +1806,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -2.54 0)
+				(at -24.13 17.78 0)
 				(length 5.08)
 				(name "CKM"
 					(effects
@@ -1824,7 +1824,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -76.2 0)
+				(at -2.54 -36.83 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1842,7 +1842,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -93.98 0)
+				(at -2.54 36.83 270)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -1860,7 +1860,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -55.88 0)
+				(at -24.13 -25.4 0)
 				(length 5.08)
 				(name "D15"
 					(effects
@@ -1878,7 +1878,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -53.34 0)
+				(at -24.13 -22.86 0)
 				(length 5.08)
 				(name "D14"
 					(effects
@@ -1896,7 +1896,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -50.8 0)
+				(at -24.13 -20.32 0)
 				(length 5.08)
 				(name "D13"
 					(effects
@@ -1914,7 +1914,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -48.26 0)
+				(at -24.13 -17.78 0)
 				(length 5.08)
 				(name "D12"
 					(effects
@@ -1932,7 +1932,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -96.52 0)
+				(at -5.08 36.83 270)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -1947,6 +1947,19 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "80C287_1_1"
+			(rectangle
+				(start -19.05 31.75)
+				(end 19.05 -31.75)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
 				)
 			)
 		)
