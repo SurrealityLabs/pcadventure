@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "pc-parts")(type "KiCad")(uri "/home/rglenn/Projects/pcadventure/286TowerOfSomething/libs/pc-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "pc-parts")(type "KiCad")(uri "${KIPRJMOD}/../libs/pc-parts.kicad_sym")(options "")(descr ""))
 )
