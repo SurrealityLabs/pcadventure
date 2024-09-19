@@ -10404,6 +10404,7 @@
 			)
 		)
 		(symbol "M6117C_1_0"
+			(unit_name "Power")
 			(pin power_in line
 				(at 17.78 12.7 270)
 				(length 5.08)
@@ -10964,6 +10965,7 @@
 			)
 		)
 		(symbol "M6117C_1_1"
+			(unit_name "Power")
 			(rectangle
 				(start -20.955 7.62)
 				(end 20.955 -7.62)
@@ -10977,6 +10979,7 @@
 			)
 		)
 		(symbol "M6117C_2_0"
+			(unit_name "RAM")
 			(pin output line
 				(at -19.05 16.51 0)
 				(length 5.08)
@@ -11753,6 +11756,7 @@
 			)
 		)
 		(symbol "M6117C_2_1"
+			(unit_name "RAM")
 			(rectangle
 				(start -13.97 33.655)
 				(end 13.97 -33.655)
@@ -11766,6 +11770,7 @@
 			)
 		)
 		(symbol "M6117C_3_0"
+			(unit_name "RTC and ROM Interface")
 			(pin output line
 				(at -19.05 0 0)
 				(length 5.08)
@@ -12056,6 +12061,7 @@
 			)
 		)
 		(symbol "M6117C_3_1"
+			(unit_name "RTC and ROM Interface")
 			(rectangle
 				(start -13.97 15.24)
 				(end 13.97 -15.24)
@@ -12069,6 +12075,7 @@
 			)
 		)
 		(symbol "M6117C_4_0"
+			(unit_name "NPU Interface")
 			(pin output line
 				(at 19.05 -8.89 180)
 				(length 5.08)
@@ -12359,6 +12366,7 @@
 			)
 		)
 		(symbol "M6117C_4_1"
+			(unit_name "NPU Interface")
 			(rectangle
 				(start -13.97 10.795)
 				(end 13.97 -10.795)
@@ -12372,6 +12380,7 @@
 			)
 		)
 		(symbol "M6117C_5_0"
+			(unit_name "Keyboard and Mouse")
 			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
@@ -12446,6 +12455,7 @@
 			)
 		)
 		(symbol "M6117C_5_1"
+			(unit_name "Keyboard and Mouse")
 			(rectangle
 				(start -13.97 6.985)
 				(end 13.97 -6.985)
@@ -12459,6 +12469,7 @@
 			)
 		)
 		(symbol "M6117C_6_0"
+			(unit_name "ISA Interface")
 			(pin bidirectional line
 				(at 19.05 25.4 180)
 				(length 5.08)
@@ -13973,6 +13984,7 @@
 			)
 		)
 		(symbol "M6117C_6_1"
+			(unit_name "ISA Interface")
 			(rectangle
 				(start -13.97 58.42)
 				(end 13.97 -58.42)
@@ -13986,6 +13998,7 @@
 			)
 		)
 		(symbol "M6117C_7_0"
+			(unit_name "Oscillators and Misc")
 			(pin input line
 				(at -19.05 5.08 0)
 				(length 5.08)
@@ -14240,6 +14253,7 @@
 			)
 		)
 		(symbol "M6117C_7_1"
+			(unit_name "Oscillators and Misc")
 			(rectangle
 				(start -13.97 15.24)
 				(end 13.97 -15.24)
