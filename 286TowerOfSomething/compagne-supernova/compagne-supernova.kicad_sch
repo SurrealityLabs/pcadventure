@@ -6903,6 +6903,16 @@
 	)
 	(wire
 		(pts
+			(xy 295.91 24.13) (xy 307.34 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50dcc5e9-5b5d-4fe6-8118-f97bc4248b5f")
+	)
+	(wire
+		(pts
 			(xy 134.62 72.39) (xy 134.62 74.93)
 		)
 		(stroke
@@ -7340,6 +7350,16 @@
 			(type default)
 		)
 		(uuid "6da22b32-ef8e-4ff4-b68d-66866e09c91f")
+	)
+	(wire
+		(pts
+			(xy 295.91 21.59) (xy 307.34 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e2f4e90-b586-4973-9062-000f4fa39ea4")
 	)
 	(wire
 		(pts
@@ -9841,6 +9861,17 @@
 		)
 		(uuid "38d25cdb-922b-4567-b16d-559ef52bf2c4")
 	)
+	(label "RX"
+		(at 295.91 21.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39ef471f-2968-4c8e-8ef4-ed90e14a7a5a")
+	)
 	(label "A3"
 		(at 120.65 186.69 180)
 		(fields_autoplaced yes)
@@ -10016,6 +10047,17 @@
 			(justify left bottom)
 		)
 		(uuid "6422c246-6f8e-4b23-8f20-61a246ea4c38")
+	)
+	(label "~{RTS}"
+		(at 295.91 24.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "67380d40-fcf8-465d-a74e-e430dbcab415")
 	)
 	(label "CLK_UART"
 		(at 260.35 148.59 0)
@@ -15878,6 +15920,26 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "RX" input
+			(at 307.34 21.59 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6a8f1656-fc13-4835-b983-5b8158f56423")
+		)
+		(pin "~{RTS}" input
+			(at 307.34 24.13 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ce9f0fe7-5a7c-4427-bfa5-9cde0812ffa1")
 		)
 		(instances
 			(project "compagne-supernova"
