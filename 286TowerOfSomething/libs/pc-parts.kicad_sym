@@ -18371,24 +18371,6 @@
 				)
 			)
 			(pin output line
-				(at 0 -398.78 0)
-				(length 2.54)
-				(name "ROMCS"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
 				(at 0 -165.1 0)
 				(length 2.54)
 				(name "MAA0"
@@ -19072,42 +19054,6 @@
 					)
 				)
 			)
-			(pin output line
-				(at 0 -401.32 0)
-				(length 2.54)
-				(name "ROMBA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "97"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at 0 -403.86 0)
-				(length 2.54)
-				(name "ROMCLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "98"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "TVGA9000i_3_0"
 			(pin bidirectional line
@@ -19542,6 +19488,24 @@
 					)
 				)
 			)
+			(pin output line
+				(at 0 -312.42 0)
+				(length 2.54)
+				(name "ROMCS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin input line
 				(at 0 -304.8 0)
 				(length 2.54)
@@ -19661,6 +19625,42 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 0 -314.96 0)
+				(length 2.54)
+				(name "ROMBA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "97"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 0 -317.5 0)
+				(length 2.54)
+				(name "ROMCLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "98"
 					(effects
 						(font
 							(size 1.27 1.27)
