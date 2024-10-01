@@ -17352,7 +17352,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "TVGA9000I-3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17360,8 +17360,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Package_QFP:PQFP-160_28x28mm_P0.65mm"
+			(at -0.254 -0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17370,7 +17370,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -0.254 -0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17379,7 +17379,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -0.254 -0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17397,8 +17397,8 @@
 		)
 		(symbol "TVGA9000i_1_0"
 			(pin output line
-				(at 0 -78.74 0)
-				(length 2.54)
+				(at -19.05 -17.78 0)
+				(length 5.08)
 				(name "~{MCS16}"
 					(effects
 						(font
@@ -17415,8 +17415,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -81.28 0)
-				(length 2.54)
+				(at 19.05 -60.96 180)
+				(length 5.08)
 				(name "SD15"
 					(effects
 						(font
@@ -17433,8 +17433,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -83.82 0)
-				(length 2.54)
+				(at 19.05 -58.42 180)
+				(length 5.08)
 				(name "SD14"
 					(effects
 						(font
@@ -17451,8 +17451,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -86.36 0)
-				(length 2.54)
+				(at 19.05 -55.88 180)
+				(length 5.08)
 				(name "SD13"
 					(effects
 						(font
@@ -17469,8 +17469,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -88.9 0)
-				(length 2.54)
+				(at 19.05 -53.34 180)
+				(length 5.08)
 				(name "SD12"
 					(effects
 						(font
@@ -17487,8 +17487,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -91.44 0)
-				(length 2.54)
+				(at 19.05 -50.8 180)
+				(length 5.08)
 				(name "SD11"
 					(effects
 						(font
@@ -17505,8 +17505,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -93.98 0)
-				(length 2.54)
+				(at 19.05 -48.26 180)
+				(length 5.08)
 				(name "SD10"
 					(effects
 						(font
@@ -17523,8 +17523,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -96.52 0)
-				(length 2.54)
+				(at 19.05 -45.72 180)
+				(length 5.08)
 				(name "SD9"
 					(effects
 						(font
@@ -17541,8 +17541,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -99.06 0)
-				(length 2.54)
+				(at 19.05 -43.18 180)
+				(length 5.08)
 				(name "SD8"
 					(effects
 						(font
@@ -17559,8 +17559,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -121.92 0)
-				(length 2.54)
+				(at -19.05 55.88 0)
+				(length 5.08)
 				(name "IRQ"
 					(effects
 						(font
@@ -17577,8 +17577,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -33.02 0)
-				(length 2.54)
+				(at 19.05 30.48 180)
+				(length 5.08)
 				(name "SA17"
 					(effects
 						(font
@@ -17595,8 +17595,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -30.48 0)
-				(length 2.54)
+				(at 19.05 33.02 180)
+				(length 5.08)
 				(name "SA18"
 					(effects
 						(font
@@ -17613,8 +17613,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -27.94 0)
-				(length 2.54)
+				(at 19.05 35.56 180)
+				(length 5.08)
 				(name "SA19"
 					(effects
 						(font
@@ -17631,8 +17631,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -25.4 0)
-				(length 2.54)
+				(at 19.05 -27.94 180)
+				(length 5.08)
 				(name "LA20"
 					(effects
 						(font
@@ -17649,8 +17649,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -22.86 0)
-				(length 2.54)
+				(at 19.05 -25.4 180)
+				(length 5.08)
 				(name "LA21"
 					(effects
 						(font
@@ -17667,8 +17667,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -20.32 0)
-				(length 2.54)
+				(at 19.05 -22.86 180)
+				(length 5.08)
 				(name "LA22"
 					(effects
 						(font
@@ -17685,8 +17685,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -17.78 0)
-				(length 2.54)
+				(at 19.05 -20.32 180)
+				(length 5.08)
 				(name "LA23"
 					(effects
 						(font
@@ -17703,8 +17703,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -76.2 0)
-				(length 2.54)
+				(at 19.05 -12.7 180)
+				(length 5.08)
 				(name "SA0"
 					(effects
 						(font
@@ -17721,8 +17721,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -73.66 0)
-				(length 2.54)
+				(at 19.05 -10.16 180)
+				(length 5.08)
 				(name "SA1"
 					(effects
 						(font
@@ -17739,8 +17739,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -71.12 0)
-				(length 2.54)
+				(at 19.05 -7.62 180)
+				(length 5.08)
 				(name "SA2"
 					(effects
 						(font
@@ -17757,8 +17757,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -68.58 0)
-				(length 2.54)
+				(at 19.05 -5.08 180)
+				(length 5.08)
 				(name "SA3"
 					(effects
 						(font
@@ -17775,8 +17775,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -66.04 0)
-				(length 2.54)
+				(at 19.05 -2.54 180)
+				(length 5.08)
 				(name "SA4"
 					(effects
 						(font
@@ -17793,8 +17793,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -63.5 0)
-				(length 2.54)
+				(at 19.05 0 180)
+				(length 5.08)
 				(name "SA5"
 					(effects
 						(font
@@ -17811,8 +17811,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -60.96 0)
-				(length 2.54)
+				(at 19.05 2.54 180)
+				(length 5.08)
 				(name "SA6"
 					(effects
 						(font
@@ -17829,8 +17829,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -58.42 0)
-				(length 2.54)
+				(at 19.05 5.08 180)
+				(length 5.08)
 				(name "SA7"
 					(effects
 						(font
@@ -17847,8 +17847,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -55.88 0)
-				(length 2.54)
+				(at 19.05 7.62 180)
+				(length 5.08)
 				(name "SA8"
 					(effects
 						(font
@@ -17865,8 +17865,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -53.34 0)
-				(length 2.54)
+				(at 19.05 10.16 180)
+				(length 5.08)
 				(name "SA9"
 					(effects
 						(font
@@ -17883,8 +17883,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -50.8 0)
-				(length 2.54)
+				(at 19.05 12.7 180)
+				(length 5.08)
 				(name "SA10"
 					(effects
 						(font
@@ -17901,8 +17901,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -48.26 0)
-				(length 2.54)
+				(at 19.05 15.24 180)
+				(length 5.08)
 				(name "SA11"
 					(effects
 						(font
@@ -17919,8 +17919,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -45.72 0)
-				(length 2.54)
+				(at 19.05 17.78 180)
+				(length 5.08)
 				(name "SA12"
 					(effects
 						(font
@@ -17937,8 +17937,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -43.18 0)
-				(length 2.54)
+				(at 19.05 20.32 180)
+				(length 5.08)
 				(name "SA13"
 					(effects
 						(font
@@ -17955,8 +17955,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -40.64 0)
-				(length 2.54)
+				(at 19.05 22.86 180)
+				(length 5.08)
 				(name "SA14"
 					(effects
 						(font
@@ -17973,8 +17973,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -38.1 0)
-				(length 2.54)
+				(at 19.05 25.4 180)
+				(length 5.08)
 				(name "SA15"
 					(effects
 						(font
@@ -17991,8 +17991,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -35.56 0)
-				(length 2.54)
+				(at 19.05 27.94 180)
+				(length 5.08)
 				(name "SA16"
 					(effects
 						(font
@@ -18009,8 +18009,8 @@
 				)
 			)
 			(pin input line
-				(at 0 0 0)
-				(length 2.54)
+				(at -19.05 30.48 0)
+				(length 5.08)
 				(name "~{IOR}"
 					(effects
 						(font
@@ -18027,8 +18027,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -2.54 0)
-				(length 2.54)
+				(at -19.05 33.02 0)
+				(length 5.08)
 				(name "~{IOW}"
 					(effects
 						(font
@@ -18045,8 +18045,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -5.08 0)
-				(length 2.54)
+				(at -19.05 35.56 0)
+				(length 5.08)
 				(name "~{MEMR}"
 					(effects
 						(font
@@ -18063,8 +18063,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -7.62 0)
-				(length 2.54)
+				(at -19.05 38.1 0)
+				(length 5.08)
 				(name "~{MEMW}"
 					(effects
 						(font
@@ -18081,8 +18081,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -10.16 0)
-				(length 2.54)
+				(at 19.05 40.64 180)
+				(length 5.08)
 				(name "IOCHRDY"
 					(effects
 						(font
@@ -18099,8 +18099,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -132.08 0)
-				(length 2.54)
+				(at -19.05 17.78 0)
+				(length 5.08)
 				(name "ENMEM"
 					(effects
 						(font
@@ -18117,8 +18117,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -12.7 0)
-				(length 2.54)
+				(at -19.05 -5.08 0)
+				(length 5.08)
 				(name "ALE"
 					(effects
 						(font
@@ -18135,8 +18135,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -15.24 0)
-				(length 2.54)
+				(at 19.05 38.1 180)
+				(length 5.08)
 				(name "AEN"
 					(effects
 						(font
@@ -18153,8 +18153,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -127 0)
-				(length 2.54)
+				(at 19.05 63.5 180)
+				(length 5.08)
 				(name "~{NMI}"
 					(effects
 						(font
@@ -18171,8 +18171,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -119.38 0)
-				(length 2.54)
+				(at 19.05 43.18 180)
+				(length 5.08)
 				(name "SD0"
 					(effects
 						(font
@@ -18189,8 +18189,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -116.84 0)
-				(length 2.54)
+				(at 19.05 45.72 180)
+				(length 5.08)
 				(name "SD1"
 					(effects
 						(font
@@ -18207,8 +18207,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -114.3 0)
-				(length 2.54)
+				(at 19.05 48.26 180)
+				(length 5.08)
 				(name "SD2"
 					(effects
 						(font
@@ -18225,8 +18225,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -111.76 0)
-				(length 2.54)
+				(at 19.05 50.8 180)
+				(length 5.08)
 				(name "SD3"
 					(effects
 						(font
@@ -18243,8 +18243,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -109.22 0)
-				(length 2.54)
+				(at 19.05 53.34 180)
+				(length 5.08)
 				(name "SD4"
 					(effects
 						(font
@@ -18261,8 +18261,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -106.68 0)
-				(length 2.54)
+				(at 19.05 55.88 180)
+				(length 5.08)
 				(name "SD5"
 					(effects
 						(font
@@ -18279,8 +18279,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -104.14 0)
-				(length 2.54)
+				(at 19.05 58.42 180)
+				(length 5.08)
 				(name "SD6"
 					(effects
 						(font
@@ -18297,8 +18297,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -101.6 0)
-				(length 2.54)
+				(at 19.05 60.96 180)
+				(length 5.08)
 				(name "SD7"
 					(effects
 						(font
@@ -18315,8 +18315,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -124.46 0)
-				(length 2.54)
+				(at -19.05 60.96 0)
+				(length 5.08)
 				(name "RESET"
 					(effects
 						(font
@@ -18333,8 +18333,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -129.54 0)
-				(length 2.54)
+				(at 19.05 -17.78 180)
+				(length 5.08)
 				(name "~{SBHE}"
 					(effects
 						(font
@@ -18351,10 +18351,23 @@
 				)
 			)
 		)
+		(symbol "TVGA9000i_1_1"
+			(rectangle
+				(start -13.97 66.04)
+				(end 13.97 -63.5)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
 		(symbol "TVGA9000i_2_0"
 			(pin bidirectional line
-				(at 0 -231.14 0)
-				(length 2.54)
+				(at 20.32 -26.67 180)
+				(length 5.08)
 				(name "DMCLK"
 					(effects
 						(font
@@ -18371,8 +18384,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -165.1 0)
-				(length 2.54)
+				(at -20.32 -1.27 0)
+				(length 5.08)
 				(name "MAA0"
 					(effects
 						(font
@@ -18389,8 +18402,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -162.56 0)
-				(length 2.54)
+				(at -20.32 1.27 0)
+				(length 5.08)
 				(name "MAA1"
 					(effects
 						(font
@@ -18407,8 +18420,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -160.02 0)
-				(length 2.54)
+				(at -20.32 3.81 0)
+				(length 5.08)
 				(name "MAA2"
 					(effects
 						(font
@@ -18425,8 +18438,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -157.48 0)
-				(length 2.54)
+				(at -20.32 6.35 0)
+				(length 5.08)
 				(name "MAA3"
 					(effects
 						(font
@@ -18443,8 +18456,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -154.94 0)
-				(length 2.54)
+				(at -20.32 8.89 0)
+				(length 5.08)
 				(name "MAA4"
 					(effects
 						(font
@@ -18461,8 +18474,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -152.4 0)
-				(length 2.54)
+				(at -20.32 11.43 0)
+				(length 5.08)
 				(name "MAA5"
 					(effects
 						(font
@@ -18479,8 +18492,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -149.86 0)
-				(length 2.54)
+				(at -20.32 13.97 0)
+				(length 5.08)
 				(name "MAA6"
 					(effects
 						(font
@@ -18497,8 +18510,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -147.32 0)
-				(length 2.54)
+				(at -20.32 16.51 0)
+				(length 5.08)
 				(name "MAA7"
 					(effects
 						(font
@@ -18515,8 +18528,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -144.78 0)
-				(length 2.54)
+				(at -20.32 19.05 0)
+				(length 5.08)
 				(name "MAA8"
 					(effects
 						(font
@@ -18533,8 +18546,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -228.6 0)
-				(length 2.54)
+				(at 20.32 -21.59 180)
+				(length 5.08)
 				(name "MD0"
 					(effects
 						(font
@@ -18551,8 +18564,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -226.06 0)
-				(length 2.54)
+				(at 20.32 -19.05 180)
+				(length 5.08)
 				(name "MD1"
 					(effects
 						(font
@@ -18569,8 +18582,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -223.52 0)
-				(length 2.54)
+				(at 20.32 -16.51 180)
+				(length 5.08)
 				(name "MD2"
 					(effects
 						(font
@@ -18587,8 +18600,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -220.98 0)
-				(length 2.54)
+				(at 20.32 -13.97 180)
+				(length 5.08)
 				(name "MD3"
 					(effects
 						(font
@@ -18605,8 +18618,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -218.44 0)
-				(length 2.54)
+				(at 20.32 -11.43 180)
+				(length 5.08)
 				(name "MD4"
 					(effects
 						(font
@@ -18623,8 +18636,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -215.9 0)
-				(length 2.54)
+				(at 20.32 -8.89 180)
+				(length 5.08)
 				(name "MD5"
 					(effects
 						(font
@@ -18641,8 +18654,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -213.36 0)
-				(length 2.54)
+				(at 20.32 -6.35 180)
+				(length 5.08)
 				(name "MD6"
 					(effects
 						(font
@@ -18659,8 +18672,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -210.82 0)
-				(length 2.54)
+				(at 20.32 -3.81 180)
+				(length 5.08)
 				(name "MD7"
 					(effects
 						(font
@@ -18677,8 +18690,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -187.96 0)
-				(length 2.54)
+				(at -20.32 -26.67 0)
+				(length 5.08)
 				(name "MAB0"
 					(effects
 						(font
@@ -18695,8 +18708,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -185.42 0)
-				(length 2.54)
+				(at -20.32 -24.13 0)
+				(length 5.08)
 				(name "MAB1"
 					(effects
 						(font
@@ -18713,8 +18726,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -182.88 0)
-				(length 2.54)
+				(at -20.32 -21.59 0)
+				(length 5.08)
 				(name "MAB2"
 					(effects
 						(font
@@ -18731,8 +18744,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -180.34 0)
-				(length 2.54)
+				(at -20.32 -19.05 0)
+				(length 5.08)
 				(name "MAB3"
 					(effects
 						(font
@@ -18749,8 +18762,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -177.8 0)
-				(length 2.54)
+				(at -20.32 -16.51 0)
+				(length 5.08)
 				(name "MAB4"
 					(effects
 						(font
@@ -18767,8 +18780,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -175.26 0)
-				(length 2.54)
+				(at -20.32 -13.97 0)
+				(length 5.08)
 				(name "MAB5"
 					(effects
 						(font
@@ -18785,8 +18798,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -172.72 0)
-				(length 2.54)
+				(at -20.32 -11.43 0)
+				(length 5.08)
 				(name "MAB6"
 					(effects
 						(font
@@ -18803,8 +18816,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -170.18 0)
-				(length 2.54)
+				(at -20.32 -8.89 0)
+				(length 5.08)
 				(name "MAB7"
 					(effects
 						(font
@@ -18821,8 +18834,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -167.64 0)
-				(length 2.54)
+				(at -20.32 -6.35 0)
+				(length 5.08)
 				(name "MAB8"
 					(effects
 						(font
@@ -18839,8 +18852,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -134.62 0)
-				(length 2.54)
+				(at -20.32 26.67 0)
+				(length 5.08)
 				(name "~{CAS}"
 					(effects
 						(font
@@ -18857,8 +18870,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -137.16 0)
-				(length 2.54)
+				(at -20.32 24.13 0)
+				(length 5.08)
 				(name "~{RAS}"
 					(effects
 						(font
@@ -18875,8 +18888,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -139.7 0)
-				(length 2.54)
+				(at 20.32 26.67 180)
+				(length 5.08)
 				(name "~{WE2}"
 					(effects
 						(font
@@ -18893,8 +18906,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -142.24 0)
-				(length 2.54)
+				(at 20.32 24.13 180)
+				(length 5.08)
 				(name "~{WE0}"
 					(effects
 						(font
@@ -18911,8 +18924,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -208.28 0)
-				(length 2.54)
+				(at 20.32 1.27 180)
+				(length 5.08)
 				(name "MD16"
 					(effects
 						(font
@@ -18929,8 +18942,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -205.74 0)
-				(length 2.54)
+				(at 20.32 3.81 180)
+				(length 5.08)
 				(name "MD17"
 					(effects
 						(font
@@ -18947,8 +18960,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -203.2 0)
-				(length 2.54)
+				(at 20.32 6.35 180)
+				(length 5.08)
 				(name "MD18"
 					(effects
 						(font
@@ -18965,8 +18978,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -200.66 0)
-				(length 2.54)
+				(at 20.32 8.89 180)
+				(length 5.08)
 				(name "MD19"
 					(effects
 						(font
@@ -18983,8 +18996,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -198.12 0)
-				(length 2.54)
+				(at 20.32 11.43 180)
+				(length 5.08)
 				(name "MD20"
 					(effects
 						(font
@@ -19001,8 +19014,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -195.58 0)
-				(length 2.54)
+				(at 20.32 13.97 180)
+				(length 5.08)
 				(name "MD21"
 					(effects
 						(font
@@ -19019,8 +19032,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -193.04 0)
-				(length 2.54)
+				(at 20.32 16.51 180)
+				(length 5.08)
 				(name "MD22"
 					(effects
 						(font
@@ -19037,8 +19050,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -190.5 0)
-				(length 2.54)
+				(at 20.32 19.05 180)
+				(length 5.08)
 				(name "MD23"
 					(effects
 						(font
@@ -19055,10 +19068,23 @@
 				)
 			)
 		)
+		(symbol "TVGA9000i_2_1"
+			(rectangle
+				(start -15.24 30.48)
+				(end 15.24 -30.48)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
 		(symbol "TVGA9000i_3_0"
 			(pin bidirectional line
-				(at 0 -274.32 0)
-				(length 2.54)
+				(at 20.32 -2.54 180)
+				(length 5.08)
 				(name "P6"
 					(effects
 						(font
@@ -19075,8 +19101,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -309.88 0)
-				(length 2.54)
+				(at 20.32 12.7 180)
+				(length 5.08)
 				(name "OUTP0"
 					(effects
 						(font
@@ -19093,8 +19119,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -276.86 0)
-				(length 2.54)
+				(at 20.32 -5.08 180)
+				(length 5.08)
 				(name "P5"
 					(effects
 						(font
@@ -19111,8 +19137,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -279.4 0)
-				(length 2.54)
+				(at 20.32 -7.62 180)
+				(length 5.08)
 				(name "P4"
 					(effects
 						(font
@@ -19129,8 +19155,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -307.34 0)
-				(length 2.54)
+				(at 20.32 15.24 180)
+				(length 5.08)
 				(name "VLF"
 					(effects
 						(font
@@ -19147,8 +19173,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -281.94 0)
-				(length 2.54)
+				(at 20.32 -10.16 180)
+				(length 5.08)
 				(name "P3"
 					(effects
 						(font
@@ -19165,8 +19191,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -284.48 0)
-				(length 2.54)
+				(at 20.32 -12.7 180)
+				(length 5.08)
 				(name "P2"
 					(effects
 						(font
@@ -19183,8 +19209,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -292.1 0)
-				(length 2.54)
+				(at 20.32 -20.32 180)
+				(length 5.08)
 				(name "PCLK"
 					(effects
 						(font
@@ -19201,8 +19227,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -287.02 0)
-				(length 2.54)
+				(at 20.32 -15.24 180)
+				(length 5.08)
 				(name "P1"
 					(effects
 						(font
@@ -19219,8 +19245,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -289.56 0)
-				(length 2.54)
+				(at 20.32 -17.78 180)
+				(length 5.08)
 				(name "P0"
 					(effects
 						(font
@@ -19237,8 +19263,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -266.7 0)
-				(length 2.54)
+				(at 20.32 7.62 180)
+				(length 5.08)
 				(name "IRSET"
 					(effects
 						(font
@@ -19255,8 +19281,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -259.08 0)
-				(length 2.54)
+				(at 20.32 27.94 180)
+				(length 5.08)
 				(name "B"
 					(effects
 						(font
@@ -19273,8 +19299,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -269.24 0)
-				(length 2.54)
+				(at 20.32 5.08 180)
+				(length 5.08)
 				(name "VREF"
 					(effects
 						(font
@@ -19291,8 +19317,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -261.62 0)
-				(length 2.54)
+				(at 20.32 25.4 180)
+				(length 5.08)
 				(name "G"
 					(effects
 						(font
@@ -19309,8 +19335,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -238.76 0)
-				(length 2.54)
+				(at -20.32 -3.81 0)
+				(length 5.08)
 				(name "RMD7"
 					(effects
 						(font
@@ -19327,8 +19353,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -241.3 0)
-				(length 2.54)
+				(at -20.32 -1.27 0)
+				(length 5.08)
 				(name "RMD6"
 					(effects
 						(font
@@ -19345,8 +19371,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -243.84 0)
-				(length 2.54)
+				(at -20.32 1.27 0)
+				(length 5.08)
 				(name "RMD5"
 					(effects
 						(font
@@ -19363,8 +19389,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -246.38 0)
-				(length 2.54)
+				(at -20.32 3.81 0)
+				(length 5.08)
 				(name "RMD4"
 					(effects
 						(font
@@ -19381,8 +19407,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -248.92 0)
-				(length 2.54)
+				(at -20.32 6.35 0)
+				(length 5.08)
 				(name "RMD3"
 					(effects
 						(font
@@ -19399,8 +19425,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -251.46 0)
-				(length 2.54)
+				(at -20.32 8.89 0)
+				(length 5.08)
 				(name "RMD2"
 					(effects
 						(font
@@ -19417,8 +19443,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -254 0)
-				(length 2.54)
+				(at -20.32 11.43 0)
+				(length 5.08)
 				(name "RMD1"
 					(effects
 						(font
@@ -19435,8 +19461,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -264.16 0)
-				(length 2.54)
+				(at 20.32 22.86 180)
+				(length 5.08)
 				(name "R"
 					(effects
 						(font
@@ -19453,8 +19479,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -256.54 0)
-				(length 2.54)
+				(at -20.32 13.97 0)
+				(length 5.08)
 				(name "RMD0"
 					(effects
 						(font
@@ -19471,8 +19497,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -294.64 0)
-				(length 2.54)
+				(at 20.32 -22.86 180)
+				(length 5.08)
 				(name "~{BLANK}"
 					(effects
 						(font
@@ -19489,8 +19515,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -312.42 0)
-				(length 2.54)
+				(at -20.32 -8.89 0)
+				(length 5.08)
 				(name "ROMCS"
 					(effects
 						(font
@@ -19507,8 +19533,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -304.8 0)
-				(length 2.54)
+				(at 20.32 20.32 180)
+				(length 5.08)
 				(name "MONITOR"
 					(effects
 						(font
@@ -19525,8 +19551,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -233.68 0)
-				(length 2.54)
+				(at 20.32 33.02 180)
+				(length 5.08)
 				(name "VSYNC"
 					(effects
 						(font
@@ -19543,8 +19569,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -236.22 0)
-				(length 2.54)
+				(at 20.32 30.48 180)
+				(length 5.08)
 				(name "HSYNC"
 					(effects
 						(font
@@ -19561,8 +19587,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -302.26 0)
-				(length 2.54)
+				(at 20.32 -33.02 180)
+				(length 5.08)
 				(name "EVIDEO"
 					(effects
 						(font
@@ -19579,8 +19605,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -299.72 0)
-				(length 2.54)
+				(at 20.32 -30.48 180)
+				(length 5.08)
 				(name "EDCLK"
 					(effects
 						(font
@@ -19597,8 +19623,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -297.18 0)
-				(length 2.54)
+				(at 20.32 -27.94 180)
+				(length 5.08)
 				(name "ESYNC"
 					(effects
 						(font
@@ -19615,8 +19641,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -271.78 0)
-				(length 2.54)
+				(at 20.32 0 180)
+				(length 5.08)
 				(name "P7"
 					(effects
 						(font
@@ -19633,8 +19659,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -314.96 0)
-				(length 2.54)
+				(at -20.32 -11.43 0)
+				(length 5.08)
 				(name "ROMBA0"
 					(effects
 						(font
@@ -19651,8 +19677,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -317.5 0)
-				(length 2.54)
+				(at -20.32 -13.97 0)
+				(length 5.08)
 				(name "ROMCLK"
 					(effects
 						(font
@@ -19669,10 +19695,23 @@
 				)
 			)
 		)
+		(symbol "TVGA9000i_3_1"
+			(rectangle
+				(start -15.24 35.56)
+				(end 15.24 -35.56)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
 		(symbol "TVGA9000i_4_0"
 			(pin power_in line
-				(at 0 -327.66 0)
-				(length 2.54)
+				(at -17.78 -20.32 90)
+				(length 5.08)
 				(name "AVSS2"
 					(effects
 						(font
@@ -19689,8 +19728,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -365.76 0)
-				(length 2.54)
+				(at 10.16 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -19707,8 +19746,8 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -320.04 0)
-				(length 2.54)
+				(at 30.48 1.27 180)
+				(length 5.08)
 				(name "RESERVED"
 					(effects
 						(font
@@ -19725,8 +19764,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -391.16 0)
-				(length 2.54)
+				(at 2.54 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -19743,8 +19782,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -368.3 0)
-				(length 2.54)
+				(at 12.7 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -19761,8 +19800,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -370.84 0)
-				(length 2.54)
+				(at 15.24 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -19779,8 +19818,8 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -322.58 0)
-				(length 2.54)
+				(at 30.48 -1.27 180)
+				(length 5.08)
 				(name "RESERVED"
 					(effects
 						(font
@@ -19797,8 +19836,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -342.9 0)
-				(length 2.54)
+				(at -17.78 20.32 270)
+				(length 5.08)
 				(name "AVDD1"
 					(effects
 						(font
@@ -19815,8 +19854,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -330.2 0)
-				(length 2.54)
+				(at -20.32 -20.32 90)
+				(length 5.08)
 				(name "AVSS1"
 					(effects
 						(font
@@ -19833,8 +19872,8 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -325.12 0)
-				(length 2.54)
+				(at 30.48 -3.81 180)
+				(length 5.08)
 				(name "RESERVED"
 					(effects
 						(font
@@ -19851,8 +19890,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -335.28 0)
-				(length 2.54)
+				(at -12.7 -20.32 90)
+				(length 5.08)
 				(name "DVSS1"
 					(effects
 						(font
@@ -19869,8 +19908,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -340.36 0)
-				(length 2.54)
+				(at -15.24 20.32 270)
+				(length 5.08)
 				(name "AVDD2"
 					(effects
 						(font
@@ -19887,8 +19926,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -347.98 0)
-				(length 2.54)
+				(at -7.62 20.32 270)
+				(length 5.08)
 				(name "DVDD1"
 					(effects
 						(font
@@ -19905,8 +19944,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -312.42 0)
-				(length 2.54)
+				(at -30.48 1.27 0)
+				(length 5.08)
 				(name "XTL1"
 					(effects
 						(font
@@ -19923,8 +19962,8 @@
 				)
 			)
 			(pin output line
-				(at 0 -317.5 0)
-				(length 2.54)
+				(at 30.48 6.35 180)
+				(length 5.08)
 				(name "MLF(RES)"
 					(effects
 						(font
@@ -19941,8 +19980,8 @@
 				)
 			)
 			(pin input line
-				(at 0 -314.96 0)
-				(length 2.54)
+				(at -30.48 -1.27 0)
+				(length 5.08)
 				(name "XTL2"
 					(effects
 						(font
@@ -19959,8 +19998,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -393.7 0)
-				(length 2.54)
+				(at 0 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -19977,8 +20016,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -373.38 0)
-				(length 2.54)
+				(at 17.78 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -19995,8 +20034,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -375.92 0)
-				(length 2.54)
+				(at 20.32 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20013,8 +20052,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -378.46 0)
-				(length 2.54)
+				(at 15.24 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -20031,8 +20070,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -350.52 0)
-				(length 2.54)
+				(at -5.08 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20049,8 +20088,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -381 0)
-				(length 2.54)
+				(at 12.7 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -20067,8 +20106,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -353.06 0)
-				(length 2.54)
+				(at -2.54 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20085,8 +20124,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -355.6 0)
-				(length 2.54)
+				(at 0 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20103,8 +20142,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -358.14 0)
-				(length 2.54)
+				(at 2.54 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20121,8 +20160,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -337.82 0)
-				(length 2.54)
+				(at -12.7 20.32 270)
+				(length 5.08)
 				(name "AVDD2"
 					(effects
 						(font
@@ -20139,8 +20178,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -383.54 0)
-				(length 2.54)
+				(at 10.16 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -20157,8 +20196,8 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -396.24 0)
-				(length 2.54)
+				(at 30.48 -6.35 180)
+				(length 5.08)
 				(name "MCA_RESERVED"
 					(effects
 						(font
@@ -20175,8 +20214,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -386.08 0)
-				(length 2.54)
+				(at 7.62 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -20193,8 +20232,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -332.74 0)
-				(length 2.54)
+				(at -10.16 -20.32 90)
+				(length 5.08)
 				(name "DVSS2"
 					(effects
 						(font
@@ -20211,8 +20250,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -360.68 0)
-				(length 2.54)
+				(at 5.08 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20229,8 +20268,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -345.44 0)
-				(length 2.54)
+				(at -5.08 20.32 270)
+				(length 5.08)
 				(name "DVDD2"
 					(effects
 						(font
@@ -20247,8 +20286,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -363.22 0)
-				(length 2.54)
+				(at 7.62 -20.32 90)
+				(length 5.08)
 				(name "VSS"
 					(effects
 						(font
@@ -20265,8 +20304,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -388.62 0)
-				(length 2.54)
+				(at 5.08 20.32 270)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -20280,6 +20319,19 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "TVGA9000i_4_1"
+			(rectangle
+				(start -25.4 15.24)
+				(end 25.4 -15.24)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
 				)
 			)
 		)
