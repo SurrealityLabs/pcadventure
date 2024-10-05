@@ -586,6 +586,10 @@
     [
       "7e3338cc-432c-4891-948d-987d1591074c",
       "RAM"
+    ],
+    [
+      "cab1871e-363a-4b4d-a2b4-3f6549efc0f1",
+      "Analog"
     ]
   ],
   "text_variables": {}
