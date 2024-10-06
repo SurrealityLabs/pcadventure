@@ -7040,6 +7040,138 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 228.6 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cdf791b-69e4-45d3-a511-2976afa410e8")
+		(property "Reference" "#PWR039"
+			(at 228.6 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "64b433a4-64da-4cd7-b4b3-fc2e631dad95")
+		)
+		(instances
+			(project "cigraphics-and-alcohol"
+				(path "/e0e6ae0e-7043-40c9-b78f-5dfbc2956e88/cab1871e-363a-4b4d-a2b4-3f6549efc0f1"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 228.6 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11695f57-5be1-458b-aa79-de9d69d2d732")
+		(property "Reference" "#PWR038"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 228.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 228.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8848eef5-d7f9-44df-974d-efe761d9f1d6")
+		)
+		(instances
+			(project "cigraphics-and-alcohol"
+				(path "/e0e6ae0e-7043-40c9-b78f-5dfbc2956e88/cab1871e-363a-4b4d-a2b4-3f6549efc0f1"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 215.9 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9226,6 +9358,76 @@
 			(project "cigraphics-and-alcohol"
 				(path "/e0e6ae0e-7043-40c9-b78f-5dfbc2956e88/cab1871e-363a-4b4d-a2b4-3f6549efc0f1"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 228.6 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0fd0312-626f-41d4-baf0-05414e83b3f4")
+		(property "Reference" "C33"
+			(at 232.41 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 232.41 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 229.5652 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "56445cc7-3faf-4f8d-8f6f-c83a06d7d344")
+		)
+		(pin "1"
+			(uuid "5939abc1-d05c-4e1a-90a9-d9a391e25ab6")
+		)
+		(instances
+			(project "cigraphics-and-alcohol"
+				(path "/e0e6ae0e-7043-40c9-b78f-5dfbc2956e88/cab1871e-363a-4b4d-a2b4-3f6549efc0f1"
+					(reference "C33")
 					(unit 1)
 				)
 			)
