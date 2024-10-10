@@ -6700,6 +6700,15 @@
 		(uuid "3f666772-e791-4368-affb-79077fec6c9e")
 	)
 	(bus_entry
+		(at 220.98 109.22)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "428b325b-5e2a-41cb-a3d9-f09a09332f81")
+	)
+	(bus_entry
 		(at 25.4 63.5)
 		(size -2.54 2.54)
 		(stroke
@@ -9192,6 +9201,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 109.22) (xy 228.6 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53bfb153-3935-4c47-a626-e24cf92a4bbe")
+	)
+	(wire
+		(pts
 			(xy 68.58 60.96) (xy 86.36 60.96)
 		)
 		(stroke
@@ -10602,6 +10621,16 @@
 	)
 	(bus
 		(pts
+			(xy 218.44 111.76) (xy 218.44 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd93af60-d3fe-404d-a463-b9399a54bcae")
+	)
+	(bus
+		(pts
 			(xy 88.9 114.3) (xy 88.9 116.84)
 		)
 		(stroke
@@ -10732,7 +10761,7 @@
 	)
 	(bus
 		(pts
-			(xy 218.44 109.22) (xy 218.44 167.64)
+			(xy 218.44 109.22) (xy 218.44 111.76)
 		)
 		(stroke
 			(width 0)
@@ -12952,6 +12981,17 @@
 			(justify left bottom)
 		)
 		(uuid "a6b5d8dc-f961-4ca7-a7ce-c504693b3eb6")
+	)
+	(label "RESETDRV"
+		(at 222.25 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6bf9364-0aeb-4c31-87ca-707d27aabdd5")
 	)
 	(label "~{MWT}"
 		(at 85.09 142.24 180)
@@ -15364,6 +15404,16 @@
 				(justify left)
 			)
 			(uuid "f116cebb-6456-448a-b803-dfd33890c911")
+		)
+		(pin "RESETDRV" input
+			(at 228.6 109.22 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c80adbb0-e52e-41c3-977f-fe84cb92cb1d")
 		)
 		(instances
 			(project "dmp-go-away"
