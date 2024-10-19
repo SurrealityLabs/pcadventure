@@ -4196,7 +4196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 127 97.79 0)
 			(effects
 				(font
@@ -4264,7 +4264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_QFP:PQFP-208_28x28mm_P0.5mm"
 			(at 76.2 101.6 0)
 			(effects
 				(font

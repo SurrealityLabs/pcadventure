@@ -5219,7 +5219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:CUI_MD-60SGK"
 			(at 203.2 127 0)
 			(effects
 				(font
@@ -5304,7 +5304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 242.2652 118.11 0)
 			(effects
 				(font
@@ -5374,7 +5374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 229.5652 118.11 0)
 			(effects
 				(font
@@ -5640,7 +5640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_QFP:PQFP-208_28x28mm_P0.5mm"
 			(at 101.6 101.6 0)
 			(effects
 				(font
@@ -6394,7 +6394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 180.0352 118.11 0)
 			(effects
 				(font
@@ -6462,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:CUI_MD-60SGK"
 			(at 140.97 127 0)
 			(effects
 				(font
@@ -6547,7 +6547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 167.3352 118.11 0)
 			(effects
 				(font

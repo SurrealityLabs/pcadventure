@@ -13745,7 +13745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PCBEdge:BUS_AT"
 			(at 50.8 100.33 0)
 			(effects
 				(font
@@ -14299,7 +14299,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_QFP:PQFP-208_28x28mm_P0.5mm"
 			(at 127 101.6 0)
 			(effects
 				(font

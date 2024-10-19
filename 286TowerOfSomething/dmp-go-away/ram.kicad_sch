@@ -13124,7 +13124,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_QFP:PQFP-208_28x28mm_P0.5mm"
 			(at 88.9 102.87 0)
 			(effects
 				(font
@@ -14416,7 +14416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:SOJ-42"
 			(at 203.2 166.37 0)
 			(effects
 				(font
@@ -14879,7 +14879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:SOJ-42"
 			(at 152.4 90.17 0)
 			(effects
 				(font
@@ -15544,7 +15544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:SOJ-42"
 			(at 152.4 166.37 0)
 			(effects
 				(font
@@ -16071,7 +16071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:SOJ-42"
 			(at 203.2 90.17 0)
 			(effects
 				(font
