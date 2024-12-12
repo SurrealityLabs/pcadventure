@@ -5714,10 +5714,6 @@
 		(uuid "10bc73f4-39e7-44b7-aec3-ebae730e73b3")
 	)
 	(no_connect
-		(at 33.02 50.8)
-		(uuid "17d83d2f-d5cc-4211-819c-6bdd332dcc34")
-	)
-	(no_connect
 		(at 33.02 40.64)
 		(uuid "20f4b2d1-6846-4fc6-ba49-dfb15bf324cd")
 	)
@@ -5740,10 +5736,6 @@
 	(no_connect
 		(at 33.02 35.56)
 		(uuid "5274bb84-ece9-47df-a20d-2084638c1f10")
-	)
-	(no_connect
-		(at 33.02 53.34)
-		(uuid "5f28097c-ca77-4a6f-9bbc-f4ecfe5f2684")
 	)
 	(no_connect
 		(at 68.58 25.4)
@@ -6703,6 +6695,16 @@
 	)
 	(wire
 		(pts
+			(xy 15.24 53.34) (xy 33.02 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4762f599-5609-472a-80c0-11b5d45c4844")
+	)
+	(wire
+		(pts
 			(xy 210.82 138.43) (xy 223.52 138.43)
 		)
 		(stroke
@@ -7230,6 +7232,16 @@
 			(type default)
 		)
 		(uuid "73290df0-8c12-4a36-83b2-20832b0b0ab3")
+	)
+	(wire
+		(pts
+			(xy 15.24 50.8) (xy 33.02 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "746177f0-081f-4360-88e4-8c28bbe68656")
 	)
 	(wire
 		(pts
@@ -8873,6 +8885,17 @@
 		)
 		(uuid "03899825-1f4a-4f99-9f0e-a3cc80576b97")
 	)
+	(label "~{MEMRD}"
+		(at 15.24 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "04cb05cf-9cb0-47a0-9af4-4bef2ae3078a")
+	)
 	(label "~{ROMWE}"
 		(at 46.99 167.64 0)
 		(fields_autoplaced yes)
@@ -8960,6 +8983,17 @@
 			(justify right bottom)
 		)
 		(uuid "16c454c8-cdb2-4f05-af5c-0e8a94369a81")
+	)
+	(label "~{MEMWR}"
+		(at 15.24 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1710ba19-b2fd-49e3-9dfe-9b4d5be2aea3")
 	)
 	(label "DRQ3"
 		(at 15.24 63.5 0)
