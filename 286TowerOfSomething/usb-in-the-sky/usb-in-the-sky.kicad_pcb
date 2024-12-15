@@ -393,7 +393,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C12"
-			(at 0 -3.7 90)
+			(at 5.08 0 180)
 			(layer "F.SilkS")
 			(uuid "2a38adfe-a681-4ff7-bab6-4ac75dee7d10")
 			(effects
@@ -837,7 +837,7 @@
 		(descr "5x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x14.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)")
 		(tags "DIP Switch SPST Slide 7.62mm 300mil")
 		(property "Reference" "SW1"
-			(at 3.81 -3.42 0)
+			(at 3.81 13.33 0)
 			(layer "F.SilkS")
 			(uuid "c88dbc84-e657-4491-ba19-ae7f78664135")
 			(effects
@@ -3090,7 +3090,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
-			(at 0 -1.27 360)
+			(at -2.54 0 360)
 			(layer "F.SilkS")
 			(uuid "3f14629b-fefe-4820-8fd8-a45136c8864c")
 			(effects
@@ -3516,7 +3516,7 @@
 		(descr "32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
 		(property "Reference" "U5"
-			(at 7.62 -2.33 0)
+			(at 15.245 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "4d56f833-4e8f-431d-bb3e-dff125571040")
 			(effects
@@ -4113,7 +4113,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
-			(at 3.175 0 90)
+			(at 2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "41cb70ad-8ef8-4c48-901f-920427bc346c")
 			(effects
@@ -4326,7 +4326,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at 0 1.397 90)
+			(at -2.54 0 0)
 			(layer "F.SilkS")
 			(uuid "50b675f0-6234-4111-bf2c-6eeba039565f")
 			(effects
@@ -4965,7 +4965,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
-			(at 0 -1.43 360)
+			(at 3.175 0 360)
 			(layer "F.SilkS")
 			(uuid "8f881cb9-a8a6-4436-b1fa-1583148a31ca")
 			(effects
@@ -5178,7 +5178,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0 -1.43 90)
+			(at 3.175 0 90)
 			(layer "F.SilkS")
 			(uuid "2013010b-1e8d-4812-a44f-5aced1a7c319")
 			(effects
@@ -5391,7 +5391,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U3"
-			(at 3.81 -2.33 90)
+			(at 7.61 -2.33 90)
 			(layer "F.SilkS")
 			(uuid "dddd9701-4c3e-45f0-aadf-fff57e1ade00")
 			(effects
@@ -5857,7 +5857,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U2"
-			(at 3.81 -2.33 0)
+			(at 7.61 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "239d48b3-659f-427e-b04c-d15aeb543bd8")
 			(effects
@@ -6323,7 +6323,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
-			(at 0 -7.747 0)
+			(at -2.54 0 0)
 			(layer "F.SilkS")
 			(uuid "d2757911-a274-4c53-992f-db04c0e0562a")
 			(effects
@@ -6536,7 +6536,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U4"
-			(at 3.81 -2.33 0)
+			(at 7.61 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "0a8031fd-a716-4eb4-bf4e-a5f42d69a5f1")
 			(effects
@@ -8307,7 +8307,7 @@
 		(descr "Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf")
 		(tags "THT crystalHC-49/U")
 		(property "Reference" "Y1"
-			(at 8.927 0 90)
+			(at 2.45 3.81 180)
 			(layer "F.SilkS")
 			(uuid "6ce9a458-a20e-4906-89a6-af987f05ff8b")
 			(effects
@@ -8590,7 +8590,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C9"
-			(at 0 -1.68 90)
+			(at 2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "3cd96835-f7be-46e2-b0ec-d251a847badf")
 			(effects
@@ -8803,7 +8803,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at 0 -1.43 90)
+			(at -2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "9c507190-9508-471e-b745-b66ddc33d12a")
 			(effects
@@ -9016,7 +9016,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C6"
-			(at 0 3.683 0)
+			(at -5.08 0 0)
 			(layer "F.SilkS")
 			(uuid "da7cf9ea-5e82-4bdd-8692-a372d8ec28e7")
 			(effects
@@ -9460,7 +9460,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C5"
-			(at 0 1.651 90)
+			(at 2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "58642621-10c8-44b8-ac61-b8792ff05b32")
 			(effects
@@ -9673,7 +9673,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C7"
-			(at 0 -1.27 90)
+			(at 2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "3e5eecae-2995-4346-977e-2c7f1844c8a0")
 			(effects
@@ -9886,7 +9886,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C13"
-			(at 0 -3.7 90)
+			(at 5.08 0 180)
 			(layer "F.SilkS")
 			(uuid "522a2681-55a0-4763-a073-09453b6a2632")
 			(effects
@@ -11023,6 +11023,66 @@
 		)
 		(layer "F.Fab")
 		(uuid "c7695100-eef9-4632-b896-7cb0ec7bff87")
+	)
+	(gr_text "~{0xC800}/0xD800"
+		(at 125.73 114.935 0)
+		(layer "F.SilkS" knockout)
+		(uuid "23de17a3-71f5-4599-84f3-bae091002ab4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "8 BIT XFER"
+		(at 125.73 109.855 0)
+		(layer "F.SilkS" knockout)
+		(uuid "4c227348-9d5f-4240-ad0e-1e41ea957326")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "16 BIT XFER"
+		(at 125.73 112.395 0)
+		(layer "F.SilkS" knockout)
+		(uuid "69ccc53f-2cab-442c-bbf3-050bf85d6eb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "ROM_WE"
+		(at 125.73 120.015 0)
+		(layer "F.SilkS" knockout)
+		(uuid "9744792a-5cb7-4bda-b6c6-55f92ae57542")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "ROM_EN"
+		(at 125.73 117.475 0)
+		(layer "F.SilkS" knockout)
+		(uuid "97b8e026-dd8e-4091-91fc-9e65a93f5b22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
 	)
 	(dimension
 		(type aligned)
