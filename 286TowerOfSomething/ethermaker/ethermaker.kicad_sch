@@ -8183,6 +8183,12 @@
 		(uuid "bc1daa01-66bb-453c-9ca9-f24711b54f3b")
 	)
 	(junction
+		(at 228.6 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd5cd19c-2e94-4a6b-96d7-311f4528e482")
+	)
+	(junction
 		(at 134.62 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11165,6 +11171,16 @@
 			(type default)
 		)
 		(uuid "ce39b841-6c07-45a7-ab09-326f0d973961")
+	)
+	(wire
+		(pts
+			(xy 228.6 81.28) (xy 228.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce802201-2b21-4470-8011-1d74cf4807a3")
 	)
 	(wire
 		(pts
@@ -17344,6 +17360,72 @@
 			(project "ethermaker"
 				(path "/298c1a51-ae68-4f15-a5f0-b8b57b471abb"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 228.6 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ecbeeb5d-17fb-4756-9d3c-4be7c6de32e1")
+		(property "Reference" "#PWR013"
+			(at 228.6 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 228.6 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 228.6 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f12a4da-23dd-420e-8af8-351319e3f48e")
+		)
+		(instances
+			(project "ethermaker"
+				(path "/298c1a51-ae68-4f15-a5f0-b8b57b471abb"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
