@@ -18474,7 +18474,7 @@
 		)
 		(uuid "061f786e-1dc6-4e5e-8298-ad98ae1bea5f")
 	)
-	(label "~{IDE2_LO}"
+	(label "~{IDE2-LO}"
 		(at 93.98 142.24 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19123,7 +19123,7 @@
 		)
 		(uuid "404e5640-fa32-4092-889c-227bf9c68003")
 	)
-	(label "~{IDE1_HI}"
+	(label "~{IDE1-HI}"
 		(at 93.98 96.52 0)
 		(fields_autoplaced yes)
 		(effects
@@ -20223,7 +20223,7 @@
 		)
 		(uuid "8b6e38e1-9f12-47c1-a4b8-eea782867c11")
 	)
-	(label "~{IDE2_HI}"
+	(label "~{IDE2-HI}"
 		(at 93.98 187.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -20586,7 +20586,7 @@
 		)
 		(uuid "ad2b3ca1-bc03-4fdc-8184-c7e92d7d43c2")
 	)
-	(label "~{IDE1_LO}"
+	(label "~{IDE1-LO}"
 		(at 93.98 50.8 0)
 		(fields_autoplaced yes)
 		(effects
@@ -21885,7 +21885,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "IDE_ACT"
 			(at 294.64 237.4899 0)
 			(effects
 				(font
@@ -22136,7 +22136,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE2_PU"
 			(at 358.14 17.78 0)
 			(effects
 				(font
@@ -22465,7 +22465,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "IDE2_MODE"
 			(at 308.61 95.2501 90)
 			(effects
 				(font
@@ -22696,12 +22696,12 @@
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 349.25 115.57 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "213542da-ba5b-43d5-aae5-fc48d7567b50")
 		(property "Reference" "JP10"
 			(at 349.25 109.22 0)
@@ -22711,7 +22711,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE2_IORDY"
 			(at 349.25 111.76 0)
 			(effects
 				(font
@@ -23498,7 +23498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "IDE2_ACT"
 			(at 256.54 237.4899 0)
 			(effects
 				(font
@@ -23633,7 +23633,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE1_PU"
 			(at 298.45 17.78 0)
 			(effects
 				(font
@@ -23702,7 +23702,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "IDE1_MODE"
 			(at 283.21 95.2501 90)
 			(effects
 				(font
@@ -24937,7 +24937,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "IDE1_CSEL"
 			(at 334.01 95.2501 90)
 			(effects
 				(font
@@ -25211,7 +25211,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE2_PWR"
 			(at 377.19 53.34 0)
 			(effects
 				(font
@@ -25991,7 +25991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "IDE2_CSEL"
 			(at 359.41 95.2501 90)
 			(effects
 				(font
@@ -26129,7 +26129,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE1_PWR"
 			(at 317.5 53.34 0)
 			(effects
 				(font
@@ -27328,7 +27328,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "IDE1_IORDY"
 			(at 298.45 111.76 0)
 			(effects
 				(font
@@ -28353,7 +28353,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "IDE1_ACT"
 			(at 218.44 237.4899 0)
 			(effects
 				(font
