@@ -257,7 +257,7 @@
 		)
 		(path "/f1b57882-5dd3-4c29-b317-12ed5b9d1671")
 		(sheetname "Root")
-		(sheetfile "16bit-two-db9.kicad_sch")
+		(sheetfile "16bit-one-db9.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -132.15 -5.1)
@@ -1349,7 +1349,7 @@
 		(at 254 127)
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
-		(property "Reference" "U1"
+		(property "Reference" "BRACKET1"
 			(at 20.35275 -16.082 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1411,7 +1411,7 @@
 		)
 		(path "/827b728c-f041-4c0f-a95c-cbff2e16fa3f")
 		(sheetname "Root")
-		(sheetfile "16bit-two-db9.kicad_sch")
+		(sheetfile "16bit-one-db9.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 27.051 -92.146)
@@ -1918,7 +1918,7 @@
 		(property ki_fp_filters "DSUB*Female*")
 		(path "/c51db767-33a9-4979-9d67-c183673ea31e")
 		(sheetname "Root")
-		(sheetfile "16bit-two-db9.kicad_sch")
+		(sheetfile "16bit-one-db9.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.25 -2.754338)
