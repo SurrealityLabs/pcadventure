@@ -899,7 +899,7 @@
 		(at 254 127)
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
-		(property "Reference" "U1"
+		(property "Reference" "BRACKET1"
 			(at 20.35275 -16.082 0)
 			(layer "F.SilkS")
 			(hide yes)

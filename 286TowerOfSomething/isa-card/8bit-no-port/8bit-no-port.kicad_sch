@@ -1522,7 +1522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "827b728c-f041-4c0f-a95c-cbff2e16fa3f")
-		(property "Reference" "U1"
+		(property "Reference" "BRACKET1"
 			(at 163.83 186.69 0)
 			(effects
 				(font
@@ -1570,7 +1570,7 @@
 		(instances
 			(project ""
 				(path "/c4dfd9b2-d574-417c-9499-e52b1d483baa"
-					(reference "U1")
+					(reference "BRACKET1")
 					(unit 1)
 				)
 			)
