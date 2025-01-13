@@ -10531,6 +10531,76 @@
 				)
 			)
 		)
+		(symbol "pc-parts:9202"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "BRACKET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "pc-parts:PC_BRACKET_ISA_KEYSTONE_9202_Rev1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "9202_1_1"
+				(rectangle
+					(start -3.81 1.27)
+					(end 3.81 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Bracket"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers hide)
@@ -24991,6 +25061,70 @@
 		)
 	)
 	(symbol
+		(lib_id "pc-parts:9202")
+		(at 293.37 252.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d02a783-4988-4ba0-89ab-256fc597d178")
+		(property "Reference" "BRACKET1"
+			(at 293.37 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 298.45 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "pc-parts:PC_BRACKET_ISA_KEYSTONE_9202_Rev1"
+			(at 293.37 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 293.37 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/29e749aa-55d9-42fb-8318-49af17b07430"
+					(reference "BRACKET1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Network08")
 		(at 274.32 135.89 0)
 		(mirror y)
@@ -30348,46 +30482,46 @@
 			)
 		)
 		(pin "10"
-			(uuid "7e629964-c135-4be6-a065-528513bd6a0a")
+			(uuid "7e629964-c135-4be6-a065-528513bd6a0b")
 		)
 		(pin "3"
-			(uuid "aa3d5493-c2ed-4fd6-b05e-0905322f09f8")
+			(uuid "aa3d5493-c2ed-4fd6-b05e-0905322f09f9")
 		)
 		(pin "5"
 			(uuid "a9ca2658-8272-464d-b12a-484402224f4f")
 		)
 		(pin "4"
-			(uuid "d737efc6-7b15-48dd-acba-53a7bee84435")
+			(uuid "d737efc6-7b15-48dd-acba-53a7bee84436")
 		)
 		(pin "12"
-			(uuid "c3db8984-b90d-4ea1-af15-5bb4b8e8fda2")
+			(uuid "c3db8984-b90d-4ea1-af15-5bb4b8e8fda3")
 		)
 		(pin "9"
-			(uuid "cd0fcadf-a451-4510-b085-98061b35485b")
+			(uuid "cd0fcadf-a451-4510-b085-98061b35485c")
 		)
 		(pin "7"
-			(uuid "41ab8375-344c-4378-a6b3-befe0ec6d934")
+			(uuid "41ab8375-344c-4378-a6b3-befe0ec6d935")
 		)
 		(pin "13"
-			(uuid "33d2c4c2-81cb-4c34-89c6-9dd0c992f0c8")
+			(uuid "33d2c4c2-81cb-4c34-89c6-9dd0c992f0c9")
 		)
 		(pin "1"
-			(uuid "f4525b3f-0c46-4cf8-872f-8f9137aaeac2")
+			(uuid "f4525b3f-0c46-4cf8-872f-8f9137aaeac3")
 		)
 		(pin "2"
-			(uuid "dd116fce-c382-42ac-9f07-8426847ce33d")
+			(uuid "dd116fce-c382-42ac-9f07-8426847ce33e")
 		)
 		(pin "6"
 			(uuid "18c38a61-e09f-4cb0-9c4d-84ec2887dd3d")
 		)
 		(pin "8"
-			(uuid "52a9bc13-d260-4930-a289-b7fe98919256")
+			(uuid "52a9bc13-d260-4930-a289-b7fe98919257")
 		)
 		(pin "14"
-			(uuid "52331d4a-8b87-4f12-9ba3-a07857f7a1f5")
+			(uuid "52331d4a-8b87-4f12-9ba3-a07857f7a1f6")
 		)
 		(pin "11"
-			(uuid "c5fde00f-0a1c-41bf-9e72-3c46d32d4d11")
+			(uuid "c5fde00f-0a1c-41bf-9e72-3c46d32d4d12")
 		)
 		(instances
 			(project ""
