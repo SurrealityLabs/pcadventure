@@ -6640,7 +6640,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-4H_Vertical"
 			(at 177.8 101.6 0)
 			(effects
 				(font
