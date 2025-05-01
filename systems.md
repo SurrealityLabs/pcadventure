@@ -3,24 +3,25 @@ PC systems
 
 8088
 ----
-- Micro8088 card
-- XT-IDE with CF card on bracket
-- PicoGUS for audio and maybe Wifi
-- 8-bit VGA card
-- Go LPT It Out
-- Flop Tonight
+- Micro8088 card (Blue)
+- XT-IDE with CF card on bracket (Blue)
+- PicoGUS for audio and maybe Wifi (Red)
+- Flop Tonight (White)
+- 8-bit VGA card (Red)
+- Go LPT It Out (Blue)
+- RTC8088 (Blue)
 
 80286
 -----
-- SCAT No Shadow
-- PicoGUS for audio
-- Ethermaker
-- The Importance of Being IDE
-- Flop Tonight
-- Go LPT It Out
-- Cigraphics and Alcohol
-- Bus Mouse card
-- USB in the sky
+- Ethermaker (black)
+- PicoGUS for audio (Red)
+- Cigraphics and Alcohol (Orange?)
+- USB in the sky (Yellow)
+- The Importance of Being IDE (green)
+- Go LPT It Out (Blue)
+- SCAT No Shadow (Purple)
+- Flop Tonight (White)
+- Bus Mouse card (Green, premade)
 
 80386
 -----
