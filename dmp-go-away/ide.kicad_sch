@@ -4302,7 +4302,7 @@
 		(fields_autoplaced yes)
 		(uuid "a780126f-da8b-4002-8312-e435a011b67b")
 		(property "Reference" "U8"
-			(at 129.1941 132.08 0)
+			(at 129.1433 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4311,7 +4311,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 129.1941 134.62 0)
+			(at 129.1433 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4319,7 +4319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm"
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 127 152.4 0)
 			(effects
 				(font
@@ -4426,7 +4426,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1689dae-1032-4ef4-af2a-08cdb7854a58")
 		(property "Reference" "U7"
-			(at 129.1941 55.88 0)
+			(at 129.1433 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4435,7 +4435,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 129.1941 58.42 0)
+			(at 129.1433 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +4443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm"
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 127 76.2 0)
 			(effects
 				(font
