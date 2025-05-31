@@ -115390,7 +115390,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 55.88 90.17 0)
 			(effects
 				(font
@@ -115743,7 +115743,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 137.16 90.17 0)
 			(effects
 				(font
@@ -116817,7 +116817,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 218.44 90.17 0)
 			(effects
 				(font
@@ -117170,7 +117170,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 299.72 90.17 0)
 			(effects
 				(font
@@ -120722,7 +120722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 55.88 227.33 0)
 			(effects
 				(font
@@ -121489,7 +121489,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 137.16 227.33 0)
 			(effects
 				(font
@@ -123603,7 +123603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 299.72 226.06 0)
 			(effects
 				(font
@@ -123956,7 +123956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pc-parts:645169-3"
 			(at 218.44 226.06 0)
 			(effects
 				(font
